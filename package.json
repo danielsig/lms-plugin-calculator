@@ -5,7 +5,7 @@
 	"main": "src/index.ts",
 	"scripts": {
 		"dev": "lms dev",
-		"push": "lms push"
+		"push": "lms push --description \"An LM Studio plugin that lets LLMs evaluate math expressions using +, -, *, /, ^, parentheses, and JavaScript Math functions.\" --write-revision -y"
 	},
 	"author": "Daniel Sig",
 	"license": "MIT",

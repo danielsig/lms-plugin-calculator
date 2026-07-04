@@ -3,5 +3,5 @@
 	"runner": "node",
 	"owner": "danielsig",
 	"name": "calculator",
-	"revision": 1
+	"revision": 2
 }
